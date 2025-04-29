@@ -7,3 +7,5 @@ A developer like any other.
   <img src="https://github-readme-stats.vercel.app/api?username=emiircane&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiircane&layout=compact&theme=github_dark" />
 </p>
+
+ilyd
