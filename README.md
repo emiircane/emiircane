@@ -1,11 +1,75 @@
-# Hey
+<div align="center">
 
-A developer like any other.
+# 👋 Hey, I'm Emir
 
-## 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emiircane&show_icons=true&theme=github_dark&cache_seconds=3600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiircane&layout=compact&theme=github_dark&cache_seconds=3600" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Mobile+%26+Web+Developer;Flutter+%7C+Swift+%7C+React;Building+Beautiful+Digital+Experiences" alt="Typing SVG" />
 
-ilyd
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/emiircane?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=58A6FF)](https://github.com/emiircane)
+[![Profile Views](https://komarev.com/ghpvc/?username=emiircane&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/emiircane)
+
+</div>
+
+---
+
+<div align="center">
+
+## �️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,nextjs,typescript,nodejs,python,firebase,supabase,figma,git&theme=dark&perline=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=emiircane&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=emiircane&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiircane&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=emiircane&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiircane/emiircane/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiircane/emiircane/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/emiircane/emiircane/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭
+
+*"i still love you so much D but it won't work anymore."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
+
+</div>
