@@ -40,31 +40,7 @@
 
 <div align="center">
 
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=emiircane&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emiircane/emiircane/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emiircane/emiircane/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/emiircane/emiircane/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭
+### :'>
 
 *"i still love you so much D but it won't work anymore."*
 
