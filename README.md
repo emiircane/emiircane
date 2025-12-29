@@ -23,27 +23,6 @@
 
 <div align="center">
 
-## GitHub Statistics
-
-<a href="https://github.com/emiircane">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=emiircane&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/emiircane">
-  <img width="49%" src="https://streak-stats.demolab.com?user=emiircane&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-</a>
-
-<br/>
-
-<a href="https://github.com/emiircane">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiircane&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
